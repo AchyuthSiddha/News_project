@@ -1,0 +1,14 @@
+body{
+    background: yellow;
+    text-align: center;
+}
+ul{
+    text-align: left;
+
+}
+img{
+    height: 300px;
+    width: 250;
+    border: 5px solid red;
+    border-style: double;
+}
